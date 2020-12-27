@@ -4,8 +4,8 @@ A novel model-free iterative learning control algorithm is presented in this pro
 
 ## Control Block Diagram
 
-[!image](https://github.com/Geng-Hao/Robust-Model-free-Iterative-Learning-Control-with-Convergence-Rate-Acceleration/blob/master/AlgorithmBlockDiag.png)
+![image](https://github.com/Geng-Hao/Robust-Model-free-Iterative-Learning-Control-with-Convergence-Rate-Acceleration/blob/master/AlgorithmBlockDiag.png)
 
 ## Algorithm Pseudo Code
 
-[!image](https://github.com/Geng-Hao/Robust-Model-free-Iterative-Learning-Control-with-Convergence-Rate-Acceleration/blob/master/PseudoCode.png)
+![image](https://github.com/Geng-Hao/Robust-Model-free-Iterative-Learning-Control-with-Convergence-Rate-Acceleration/blob/master/PseudoCode.png)
